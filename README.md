@@ -103,7 +103,6 @@ Class imbalance handled using **SMOTE**.
 
 ## 🚀 How to Run the Project
 
-```bash
 pip install -r requirements.txt
 jupyter notebook notebooks/ML_Project.ipynb
 
